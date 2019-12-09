@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">MobileRto</string>
+    <string name="user_login">User Login</string>
+    <string name="user_login_username">Username</string>
+    <string name="user_login_password">Password</string>
+    <string name="user_login_sign_in">Sign In</string>
+
+    <string name="activity_login_reg">Not yet registered?  </string>
+    <string name="activity_login_signUp"><a href="">Sign Up</a></string>
+
+    <string name="user_sign_up">Sign Up</string>
+    <string name="user_sign_up_name">Name</string>
+    <string name="user_sign_up_mobile">Enter mobile number</string>
+    <string name="user_sign_up_email">Enter valid email</string>
+    <string name="user_sign_up_password">Enter Password</string>
+    <string name="activity_sign_up_submit">Sign Up</string>
+
+    <string name="activity_vehicle_search">Vehicle Search</string>
+    <string name="activity_vehicle_search_no">Enter registration Number</string>
+
+    <string name="activity_license_search">License Search</string>
+    <string name="activity_license_search_no">Enter License Number</string>
+
+    <string name="home_vehicle_button">RC</string>
+    <string name="home_license_button">LC</string>
+    <string name="home_apply_license_button">Apply License</string>
+    <string name="home_apply_registration_button">Apply Registration</string>
+    <string name="home_add_class_button">Add License Class</string>
+    <string name="home_demo_quiz_button">Mock Test</string>
+
+    <string name="Select">Select Vehicle</string>
+    <string name="TwoWheeler">Two Wheeler</string>
+    <string name="TwoWheelerWithGear">Two Wheeler With Gear</string>
+    <string name="FourWheeler">Four Wheeler</string>
+    <string name="HeavyLicense">Heavy License</string>
+    <string-array name="Convert_Type">
+        <item>@string/Select</item>
+        <item>@string/TwoWheeler</item>
+        <item>@string/TwoWheelerWithGear</item>
+        <item>@string/FourWheeler</item>
+        <item>@string/HeavyLicense</item>
+    </string-array>
+
+    <string name="SelectRto">Select RTO</string>
+    <string name="Kazhakkootom">Kazhakkootom</string>
+    <string name="Nedumangadu">Nedumangadu</string>
+    <string name="Kollam">Kollam</string>
+    <string name="Attingal">Attingal</string>
+    <string-array name="Convert_Typerto">
+        <item>@string/SelectRto</item>
+        <item>@string/Kazhakkootom</item>
+        <item>@string/Nedumangadu</item>
+        <item>@string/Kollam</item>
+        <item>@string/Attingal</item>
+    </string-array>
+
+    <string name="Selectregn">Select Vehicle Type</string>
+    <string name="TwoWheelerregn">Two Wheeler</string>
+    <string name="TwoWheelerWithGearregn">Two Wheeler With Gear</string>
+    <string name="FourWheelerregn">Four Wheeler</string>
+    <string-array name="Convert_Type_Regn">
+        <item>@string/Selectregn</item>
+        <item>@string/TwoWheelerregn</item>
+        <item>@string/TwoWheelerWithGearregn</item>
+        <item>@string/FourWheelerregn</item>
+    </string-array>
+
+    <string name="activity_applyregistration_fileup"><a href="">Click To Upload Required Documents</a></string>
+
+</resources>
